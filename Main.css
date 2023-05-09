@@ -1,0 +1,89 @@
+.container {
+    font-family: "Georgia", serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.byline {
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+.col {
+font-family:"Arial", sans-serif;
+font-size: 12px;
+}
+
+.photo-caption {
+    text-align: right;
+    color: #767676;
+    font-size: 12px;
+    font-family: "Arial", sans-serif;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.main-link:link {
+    color: black;
+}
+
+.main-link:visited {
+    color: black;
+}
+
+.main-link:hover {
+    color: #767676;
+}
+
+.secondary-link:link {
+    color: #df321b;
+    text-decoration: none;
+}
+
+.secondary-link:hover {
+    text-decoration: underline;
+}
+
+.secondary-link:visited {
+    color: #df321b;
+}
+
+.fancy {
+    font-weight: bold;
+    border-top: 3px solid black;
+    text-transform: uppercase;
+    letter-spacing: 1.3px;
+    font-size: 24px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.step {
+    line-height: 1.4;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+}
+
+ul {
+    list-style-type: square;
+}
+
+li {
+    font-size: 18px;
+}
+.First-Text {
+font-size: 1 px;
+}
+
+.Second-Text {
+font-size: 1 px;
+}
+
